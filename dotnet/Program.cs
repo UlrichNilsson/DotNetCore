@@ -6,7 +6,7 @@ namespace dotnet
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Plural!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
