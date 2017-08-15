@@ -11,7 +11,6 @@
 /Users/ulrichnilsson/Projects/GITHub/DotNetCore/DotNetCore/dotnet/bin/Debug/netcoreapp1.1/dotnet.runtimeconfig.dev.json
 /Users/ulrichnilsson/Projects/GITHub/DotNetCore/DotNetCore/dotnet/bin/Debug/netcoreapp1.1/dotnet.dll
 /Users/ulrichnilsson/Projects/GITHub/DotNetCore/DotNetCore/dotnet/bin/Debug/netcoreapp1.1/dotnet.pdb
-/Users/ulrichnilsson/Projects/GITHub/DotNetCore/DotNetCore/dotnet/obj/Debug/netcoreapp1.1/dotnet.csprojResolveAssemblyReference.cache
 /Users/ulrichnilsson/Projects/GITHub/DotNetCore/DotNetCore/dotnet/obj/Debug/netcoreapp1.1/dotnet.csproj.CoreCompileInputs.cache
 /Users/ulrichnilsson/Projects/GITHub/DotNetCore/DotNetCore/dotnet/obj/Debug/netcoreapp1.1/dotnet.AssemblyInfo.cs
 /Users/ulrichnilsson/Projects/GITHub/DotNetCore/DotNetCore/dotnet/obj/Debug/netcoreapp1.1/dotnet.dll
