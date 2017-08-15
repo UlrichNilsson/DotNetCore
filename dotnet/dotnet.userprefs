@@ -2,7 +2,6 @@
   <MonoDevelop.Ide.ItemProperties.dotnet PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="dotnet Status">
     <Files>
-      <File FileName="Program.cs" Line="1" Column="1" />
       <File FileName="dotnet Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
