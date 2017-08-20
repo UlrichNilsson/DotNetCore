@@ -22,8 +22,7 @@ C:\Users\ulric\Documents\GITHub\DotNetCore\TheWorld\TheWorld\bin\Debug\netcoreap
 C:\Users\ulric\Documents\GITHub\DotNetCore\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.runtimeconfig.dev.json
 C:\Users\ulric\Documents\GITHub\DotNetCore\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.dll
 C:\Users\ulric\Documents\GITHub\DotNetCore\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.pdb
-C:\Users\ulric\Documents\GITHub\DotNetCore\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.csprojResolveAssemblyReference.cache
+C:\Users\ulric\Documents\GITHub\DotNetCore\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.csproj.CoreCompileInputs.cache
 C:\Users\ulric\Documents\GITHub\DotNetCore\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.AssemblyInfo.cs
 C:\Users\ulric\Documents\GITHub\DotNetCore\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.dll
 C:\Users\ulric\Documents\GITHub\DotNetCore\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.pdb
-C:\Users\ulric\Documents\GITHub\DotNetCore\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.csproj.CoreCompileInputs.cache
