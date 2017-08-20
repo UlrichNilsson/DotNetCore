@@ -15,11 +15,23 @@
     //});
 
     //var menuItems = $("ul.menu li a");
-    //var me = $(this)
+
 
     //menuItems.on("click", function () {
+    //    var me = $(this);
     //    alert(me.text);
     //});
 
+    var $sidebarAndWrapper = $("#sidebar,#wrapper");
+
+    $("#sidebarToggle").on("click", function () {
+        $sidebarAndWrapper.toggleClass("hide-sidebar")
+        if ($sidebarAndWrapper.hasClass("hide-sidebar")) {
+            $(this).text("Show Sidebar");
+        } else {
+            $(this).text("Hide Sidebar");
+        }
+    })
+    
 
 })();
