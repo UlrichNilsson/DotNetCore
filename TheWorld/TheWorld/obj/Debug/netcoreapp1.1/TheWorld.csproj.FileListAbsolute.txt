@@ -17,3 +17,13 @@
 /Users/ulrichnilsson/Projects/GITHub/DotNetCore/DotNetCore/TheWorld/TheWorld/obj/Debug/netcoreapp1.1/TheWorld.AssemblyInfo.cs
 /Users/ulrichnilsson/Projects/GITHub/DotNetCore/DotNetCore/TheWorld/TheWorld/obj/Debug/netcoreapp1.1/TheWorld.dll
 /Users/ulrichnilsson/Projects/GITHub/DotNetCore/DotNetCore/TheWorld/TheWorld/obj/Debug/netcoreapp1.1/TheWorld.pdb
+C:\Users\ulric\Documents\GITHub\DotNetCore\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.deps.json
+C:\Users\ulric\Documents\GITHub\DotNetCore\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.runtimeconfig.json
+C:\Users\ulric\Documents\GITHub\DotNetCore\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.runtimeconfig.dev.json
+C:\Users\ulric\Documents\GITHub\DotNetCore\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.dll
+C:\Users\ulric\Documents\GITHub\DotNetCore\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.pdb
+C:\Users\ulric\Documents\GITHub\DotNetCore\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.csprojResolveAssemblyReference.cache
+C:\Users\ulric\Documents\GITHub\DotNetCore\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.AssemblyInfo.cs
+C:\Users\ulric\Documents\GITHub\DotNetCore\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.dll
+C:\Users\ulric\Documents\GITHub\DotNetCore\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.pdb
+C:\Users\ulric\Documents\GITHub\DotNetCore\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.csproj.CoreCompileInputs.cache
