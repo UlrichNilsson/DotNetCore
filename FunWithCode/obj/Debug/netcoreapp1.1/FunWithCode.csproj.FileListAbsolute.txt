@@ -1,9 +1,0 @@
-/Users/ulrichnilsson/Documents/FunWithCode/bin/Debug/netcoreapp1.1/FunWithCode.deps.json
-/Users/ulrichnilsson/Documents/FunWithCode/bin/Debug/netcoreapp1.1/FunWithCode.runtimeconfig.json
-/Users/ulrichnilsson/Documents/FunWithCode/bin/Debug/netcoreapp1.1/FunWithCode.runtimeconfig.dev.json
-/Users/ulrichnilsson/Documents/FunWithCode/bin/Debug/netcoreapp1.1/FunWithCode.dll
-/Users/ulrichnilsson/Documents/FunWithCode/bin/Debug/netcoreapp1.1/FunWithCode.pdb
-/Users/ulrichnilsson/Documents/FunWithCode/obj/Debug/netcoreapp1.1/FunWithCode.csproj.CoreCompileInputs.cache
-/Users/ulrichnilsson/Documents/FunWithCode/obj/Debug/netcoreapp1.1/FunWithCode.AssemblyInfo.cs
-/Users/ulrichnilsson/Documents/FunWithCode/obj/Debug/netcoreapp1.1/FunWithCode.dll
-/Users/ulrichnilsson/Documents/FunWithCode/obj/Debug/netcoreapp1.1/FunWithCode.pdb
