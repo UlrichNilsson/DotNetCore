@@ -1,13 +1,12 @@
 ﻿using System;
 
-namespace dotnet
+namespace HelloWorld
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World !");
-            //Pluralsight
+            Console.WriteLine("Hello World!");
         }
     }
 }
