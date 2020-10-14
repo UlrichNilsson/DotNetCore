@@ -1,7 +1,15 @@
 # Build hello world
 
 trigger:
-- master
+  branches:
+    include:
+    - master
+  paths:
+    include:
+    - dotnet/*
+    - Pipelines/HelloWorld.yml
+    exclude:
+    - dotnet/README.md
 
 pool:
   vmImage: 'ubuntu-latest'
