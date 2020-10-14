@@ -3,7 +3,3 @@
 ## Local build
 
 `dotnet build HelloWorld.csproj`
-
-## Pipeline path
-
-<https://ulrichnilsson.visualstudio.com/MyCode/>
